@@ -18,4 +18,5 @@ This project is a simple machine learning-based stock market price predictor. It
 ## ▶️ How to Run:
 1. Clone the repository:
 ```bash
-git clone https://github.com/Vasu8781/YourRepoName.git
+git clone https://github.com/Vasu8781/StockMarketPredictor.git
+
