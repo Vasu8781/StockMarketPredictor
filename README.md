@@ -20,3 +20,5 @@ This project is a simple machine learning-based stock market price predictor. It
 ```bash
 git clone https://github.com/Vasu8781/StockMarketPredictor.git
 
+## 📊 Sample Output
+![Prediction Graph](screenshot.png)
